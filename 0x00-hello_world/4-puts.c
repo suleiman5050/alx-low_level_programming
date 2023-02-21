@@ -1,5 +1,6 @@
-#!/bin/bash
-#include <stdio.h>/**
+:wq
+#include <stdio.h>
+/**
 *comment
 */
 int main(void)
